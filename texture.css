@@ -1,0 +1,44 @@
+body{
+    background-color: deeppink;
+    color: chartreuse;
+    font-family: cursive;   
+
+}
+ul {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    list-style-type: none;
+
+
+
+    
+}
+#Hoofdpagina{
+   position: absolute;
+   top: -20px;
+   left: 10px;
+   
+}
+
+#text1 {
+    color: blue;
+    border-style:solid;
+    border-width: 1.5mm;  
+    width: 425px;;
+    margin: 10px;
+    -webkit-text-fill-color:cyan;
+    background-color: rgb(158, 142, 122);
+}
+#kaas {
+    width: 50%;
+    border: 8px solid black ;
+}
+#kaas2{
+    width: 45%;
+    border: 8px solid black ;
+    position:
+absolute;
+    top: 55px;
+    left: 475px
+}
